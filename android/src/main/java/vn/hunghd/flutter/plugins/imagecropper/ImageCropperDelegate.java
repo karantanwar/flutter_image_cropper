@@ -5,13 +5,11 @@ import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.net.Uri;
-import android.support.annotation.ColorInt;
-
 import com.yalantis.ucrop.UCrop;
 
 import java.io.File;
 import java.util.Date;
-
+import androidx.annotation.ColorInt;
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
 import io.flutter.plugin.common.PluginRegistry;
